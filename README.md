@@ -15,7 +15,7 @@ Mini projeto desenvolvido para a disciplina de `Programação para Internet em B
 <br>
 
 
-![alt text](image.png)
+<img src='css/image.png'>
 
 
 <br>
